@@ -1,0 +1,15 @@
+<!-- res/drawable/button_rounded.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Set a high-contrast background color for accessibility -->
+    <solid android:color="@color/buttonBackground" /> <!-- Replace with high-contrast color -->
+
+    <!-- Define rounded corners for a smooth, rounded button look -->
+    <corners android:radius="16dp" />
+
+    <!-- Optional: Add padding to make sure text is centered nicely -->
+    <padding
+        android:left="8dp"
+        android:right="8dp"
+        android:top="4dp"
+        android:bottom="4dp" />
+</shape>

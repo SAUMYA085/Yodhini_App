@@ -1,0 +1,29 @@
+<resources>
+    <!-- App information -->
+    <string name="app_name">Yodhini_2.O</string>
+    <string name="welcome_text">Welcome to Yodhini</string>
+    <string name="register_button_text">Register</string>
+
+    <!-- Input field hints -->
+    <string name="full_name_hint">Full Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+
+    <!-- App logo description -->
+    <string name="app_logo_description">Yodhini App Logo</string>
+
+    <!-- Button texts -->
+    <string name="sos_button_text">SOS</string>
+    <string name="panic_button_text">Panic</string>
+
+    <!-- Strings for activity_admire.xml -->
+    <string name="admire_header">We admire you...</string>
+    <string name="admire_message">Thank you for joining Yodhini! You are now part of a safe and empowering community.</string>
+    <string name="continue_button">Continue</string>
+
+    <!-- Strings for activity_main.xml -->
+    <string name="panic_button_description">Press this button to activate the panic feature for immediate assistance.</string>
+
+    <!-- Strings for activity_next.xml -->
+    <string name="next_activity_message">Welcome to the next feature page!</string>
+</resources>

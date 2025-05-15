@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "79249362536",
+    "project_id": "yodhini-77293",
+    "storage_bucket": "yodhini-77293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79249362536:android:098157cffac801eaac75dd",
+        "android_client_info": {
+          "package_name": "com.shakti.yodhini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiMkg9Lv6wKUl2tv5JYECFCHJMgBR57sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79249362536:android:bc9662c6e2732ab9ac75dd",
+        "android_client_info": {
+          "package_name": "com.shakti.yodhini_2o"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiMkg9Lv6wKUl2tv5JYECFCHJMgBR57sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
